@@ -1,11 +1,10 @@
-# ```text
-  sharon@archlinux
-  ----------------
-  OS: Arch Linux (Omarchy)
-  STATUS: Yearner & Learner on DND
-  PATH: Data Analytics
-  MOTTO: "Iterating towards a better version of self"
-
+# 
+ sharon@archlinux
+----------------
+OS:     Arch Linux (Omarchy)
+STATUS: Yearner & Learner on DND
+PATH:   Data Analytics
+MOTTO:  "Iterating towards a better version of self"
 ### ✦ The Digital Garden
 
 > "Data is the shadows on the cave wall; logic is the light that reveals the form."
@@ -21,7 +20,7 @@ Always open to new suggestions of anything.
 | :--- | :--- |
 | **Knowledge** | `Python`, `SQL`, `Bash`, `C` |
 | **Embedded & Hardware** | `Arduino`, `C++`, `Raspberry Pi`, `I2C/SPI` |
-| **Infrastructure** | `Arch Linux`, `Omarchy`, `Limine Bootloader` |
+| **Infrastructure** | `Arch Linux`, `Omarchy`, `Ubuntu` |
 
 <p align="left">
   <a href="https://skillicons.dev">
