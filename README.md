@@ -31,17 +31,16 @@ Always open to new suggestions of anything.
 
 ### 📊 System Vital Signs
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+<img src="https://github-readme-stats.vercel.app/api?username=sharanfr&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharanfr&layout=compact&theme=tokyonight&hide_border=true" width="300" />
 </p>
 
 ---
 
 ### ⚔️ Current Quest: Hallownest
 - **Objective:** Achieving 112% Completion in Hollow Knight.
-- **Progress:** 100% 🟢 (Exploring the Abyss)
-- **Ambient:** *Listening to Hollow Knight OST & Lo-fi Philosophy*
-- **Field Study:** Exploring different fields in tech to find the perfect synergy.
+- **Ambient:** *Listening to Rap, Hip-Hop, Indie songs on repeat*
+- **Field Study:** *Exploring different fields in tech cuz why not? We got free will*
 
 ---
 <p align="center">
