@@ -1,10 +1,10 @@
-# ╭────────────────────────────────────────────────────────────╮
-# │ **sharon@archlinux: ~/identity** │
-# ├────────────────────────────────────────────────────────────┤
-# │ **"A yearner and also a learner."** │
-# │ **Path:** Data Analytics & Embedded Logic                  │
-# │ **Philosophy:** "Iterating towards a better version of self"│
-# ╰────────────────────────────────────────────────────────────╯
+# ```text
+  sharon@archlinux
+  ----------------
+  OS: Arch Linux (Omarchy)
+  STATUS: Yearner & Learner on DND
+  PATH: Data Analytics
+  MOTTO: "Iterating towards a better version of self"
 
 ### ✦ The Digital Garden
 
@@ -31,15 +31,6 @@ Always open to new suggestions of anything.
 
 ---
 
-### 📊 System Vital Signs
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sharanfr&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharanfr&layout=compact&theme=tokyonight&hide_border=true" width="300" />
-</p>
-
----
-
 ### ⚔️ Current Quest: Hallownest
 
 * **Objective:** Achieving 112% Completion in Hollow Knight.
@@ -47,7 +38,9 @@ Always open to new suggestions of anything.
 * **Field Study:** *Exploring different fields in tech cuz why not? We got free will*
 
 ---
-
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/34/8e/2c/348e2c524ecaafa6f235e7256bc80a3e.jpg" width="350" />
+</p>
 <p align="center">
   <i>"The unexamined code is not worth running."</i>
 </p>
