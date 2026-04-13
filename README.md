@@ -1,11 +1,8 @@
-# 
- sharon@archlinux
-----------------
-OS:     Arch Linux (Omarchy)
-STATUS: Yearner & Learner on DND
-PATH:   Data Analytics
-MOTTO:  "Iterating towards a better version of self"
-### ✦ The Digital Garden
+> ### ✦ sharanfr
+> **OS:** `Arch Linux` • `Omarchy` • `Acer Aspire`
+> **PATH:** `Data Analytics` • `BCA '26`
+> **STATUS:** `DND` (Yearner & Learner mode)
+> *"Iterating towards a better version of self."*
 
 > "Data is the shadows on the cave wall; logic is the light that reveals the form."
 
